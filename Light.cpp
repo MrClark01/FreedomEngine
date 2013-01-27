@@ -1,6 +1,6 @@
 #include "Advanced2D.h"
 
-namespace Advanced2D {
+namespace Freedom {
     
 Light::Light(int lightNum, D3DLIGHTTYPE type, D3DXVECTOR3 position, D3DXVECTOR3 direction, double range)
 {
