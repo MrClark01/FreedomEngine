@@ -2,7 +2,7 @@
 
 #include "Advanced2d.h"
 
-namespace Advanced2D {
+namespace Freedom {
     
 class Light
 {
