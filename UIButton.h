@@ -1,7 +1,7 @@
 #pragma once
 #include "Advanced2D.h"
 
-namespace Advanced2D
+namespace Freedom
 {
 	class UIButton : public UIBase
 	{
