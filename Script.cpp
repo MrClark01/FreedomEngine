@@ -5,7 +5,7 @@
 #include "Advanced2D.h"
 
 
-namespace Advanced2D {
+namespace Freedom {
 
 	Script::~Script()
 	{
