@@ -1,6 +1,6 @@
 #include "Advanced2D.h"
 
-namespace Advanced2D {
+namespace Freedom {
 
 	Vector3::Vector3()
 	{
