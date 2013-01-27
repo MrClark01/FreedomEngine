@@ -1,7 +1,6 @@
-
 #include "Advanced2D.h"
 
-namespace Advanced2D {
+namespace Freedom {
 
 	Entity::Entity(enum RenderType renderType)
 	{
