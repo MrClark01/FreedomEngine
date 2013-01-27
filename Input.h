@@ -3,7 +3,7 @@
 #ifndef _INPUT_H
 #define _INPUT_H 1
 
-namespace Advanced2D {
+namespace Freedom {
 
 	class Input {
 
