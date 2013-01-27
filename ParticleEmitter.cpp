@@ -4,7 +4,7 @@
 
 #include "Advanced2D.h"
 
-namespace Advanced2D {
+namespace Freedom {
 
     ParticleEmitter::ParticleEmitter()
     {
