@@ -2,7 +2,7 @@
 #include "Entity.h"
 #pragma once
 
-namespace Advanced2D
+namespace Freedom
 {
 	enum CollisionType
 	{
