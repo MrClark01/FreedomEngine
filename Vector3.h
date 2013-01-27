@@ -2,7 +2,7 @@
 
 #pragma once
 
-namespace Advanced2D {
+namespace Freedom {
 
 	class Vector3 
 	{
