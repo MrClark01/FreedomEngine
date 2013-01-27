@@ -1,12 +1,7 @@
 #include "Advanced2D.h"
 #pragma once
 
-/*
-	This bitmapped font with width data is preferrable to a DirectX font when cross-platform is an issue,
-	but for Windows-only code it is not as good as ID3DXFont.
-*/
-
-namespace Advanced2D
+namespace Freedom
 {
 	class Font
 	{
