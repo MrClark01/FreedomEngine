@@ -3,7 +3,7 @@
 #ifndef _AUDIO_H
 #define _AUDIO_H 1
 
-namespace Advanced2D {
+namespace Freedom {
 
 	class Sample
 	{
