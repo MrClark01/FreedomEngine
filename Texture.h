@@ -3,7 +3,7 @@
 #ifndef _TEXTURE_H
 #define _TEXTURE_H 1
 
-namespace Advanced2D
+namespace Freedom
 {
 	class Texture
 	{
