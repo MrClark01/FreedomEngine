@@ -1,7 +1,7 @@
 #include "Advanced2D.h"
 #pragma once
 
-namespace Advanced2D
+namespace Freedom
 {
   class UIBase
   {
