@@ -2,7 +2,7 @@
 
 #pragma once
 
-namespace Advanced2D {
+namespace Freedom {
 
     const double PI = 3.1415926535;
     const double PI_over_180 = PI / 180.0f;
