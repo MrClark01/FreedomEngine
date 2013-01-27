@@ -6,7 +6,7 @@
 
 //***mod--floats to doubles
 
-namespace Advanced2D {
+namespace Freedom {
 
 	class Mesh : public Entity
 	{
